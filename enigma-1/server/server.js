@@ -81,7 +81,6 @@ wss.on("connection", (ws) => {
   });
 });
 
-// API routes
 app.post("/api/login", (req, res) => {
   const { username, password } = req.body;
 
@@ -186,7 +185,6 @@ app.put("/api/record/:fisNo", (req, res) => {
   );
 });
 
-// Yeni kayıt ekleme
 app.post("/api/record", (req, res) => {
   const { AdiSoyadi } = req.body;
 
@@ -207,7 +205,7 @@ app.post("/api/record", (req, res) => {
     });
   });
 });
-// Start the server
+
 server.listen(PORT, () => {
   console.log(`Sunucu ${PORT} portunda çalışıyor.`);
 });

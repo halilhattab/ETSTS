@@ -11,7 +11,7 @@ Bu proje, teknik servislerin müşteri bilgilerini sunucu üzerinden veritabanı
 
 ## Bu Sürümde Projenin Özellikler:
 
-- **Front-End:** bu sürümde sadece kullanıcı arayüzünün temeli atıldı.
+- ⚠️ **Front-End:** bu sürümde sadece kullanıcı arayüzünün temeli atıldı.
 ## **Sürümle İlgili Bir Kaç Detay:**
 - Veritabanı hataları:
   - Login işlemleri

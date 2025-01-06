@@ -1,0 +1,93 @@
+[
+  {
+    "kategori": "Kişisel Bilgiler",
+    "ad_soyad": "Halil Hattab",
+    "tel": "+90 555 555 5555",
+    "tel2": "+90 555 555 5556",
+    "email": "halil@example.com"
+  },
+  {
+    "kategori": "Cihaz Bilgileri",
+    "cihaz": "Laptop",
+    "cihazID": "LH12345",
+    "model_no": "XPS15-9570",
+    "seri_no": "SN20241004"
+  },
+  {
+    "kategori": "Sistem Bilgileri",
+    "isletim_sistemi": "Linux Mint",
+    "ram": "16GB",
+    "disk": "512GB SSD",
+    "islemci": "Intel Core i7-9750H"
+  },
+  {
+    "kategori": "Bağlantı Bilgileri",
+    "wifi_ssid": "HomeNetwork",
+    "ip_adresi": "192.168.1.100",
+    "mac_adresi": "00:1A:2B:3C:4D:5E",
+    "proxy": "Aktif Değil"
+  },
+  {
+    "kategori": "Güvenlik Bilgileri",
+    "firewall": "Aktif",
+    "antivirus": "Mevcut",
+    "parola_koruma": "Evet",
+    "vpn": "Aktif"
+  },
+  {
+    "kategori": "Kullanıcı Ayarları",
+    "dil": "Türkçe",
+    "tema": "Karanlık",
+    "kullanıcı_tip": "Admin",
+    "giris_tarihi": "2024-12-04"
+  },
+  {
+    "kategori": "Donanım Bilgileri",
+    "ekran_boyutu": "15.6 inç",
+    "ağırlık": "1.8 kg",
+    "batarya": "97 Wh",
+    "portlar": "3x USB, 1x HDMI, 1x Thunderbolt"
+  },
+  {
+    "kategori": "Ağ Bilgileri",
+    "ağ_hızı": "500 Mbps",
+    "kablolu_baglanti": "Var",
+    "kablosuz_baglanti": "Var",
+    "ethernet_portu": "1x RJ-45"
+  },
+  {
+    "kategori": "Yazılım Bilgileri",
+    "ofis_programı": "LibreOffice",
+    "web_tarayıcı": "Firefox",
+    "editör": "VS Code",
+    "terminal": "Bash"
+  },
+  {
+    "kategori": "Erişim Bilgileri",
+    "uzaktan_erişim": "Açık",
+    "ssh_portu": "22",
+    "rdp": "Kapalı",
+    "kullanıcı_adı": "theredstar1342"
+  },
+  {
+    "kategori": "Güncelleme Bilgileri",
+    "son_guncelleme": "2024-11-30",
+    "otomatik_guncelleme": "Açık",
+    "paket_yoneticisi": "APT",
+    "guncel_surum": "1.0.3"
+  },
+  {
+    "kategori": "Yedekleme Bilgileri",
+    "yedekleme_durumu": "Aktif",
+    "yedekleme_tarihi": "2024-11-28",
+    "yedekleme_alanı": "1TB Harici Disk",
+    "yedekleme_yazılımı": "Timeshift"
+  },
+  {
+    "kategori": "Ekstra Bilgiler",
+    "aktif_hesaplar": "5",
+    "lisans_durumu": "Geçerli",
+    "cihaz_durumu": "Çalışır Durumda",
+    "notlar": "Sistem düzenli olarak yedekleniyor."
+  }
+]

@@ -1,0 +1,21 @@
+/* table tr :hover {
+  background-color: darkgray;
+} */
+
+/* .table-ll {
+  width: 50%;
+} */
+
+table {
+  /* background-color: red; */
+  width: 100% !important;
+}
+
+table td:hover {
+  background-color: darkgrey;
+}
+
+table tbody::selection {
+  background-color: brown;
+  color: white;
+}
